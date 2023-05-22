@@ -31,3 +31,7 @@ nav .left .menu li a:hover {
 nav .right a:first-child {
 	margin-right: 5px;
 }
+
+.logo {
+	font-weight: bold;
+}

@@ -6,7 +6,7 @@ function Navbar() {
 	return (
 		<nav>
 			<div className={styles.left}>
-				<div className='logo'>
+				<div className={styles.logo}>
 					<NavLink to='/'>eCommerce</NavLink>
 				</div>
 
